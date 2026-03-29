@@ -77,7 +77,12 @@ Responde brevemente:
 
 ¿Cómo contribuye esta metodología al aprendizaje?
 
+El Aprendizaje Basado en Proyectos contribuye al aprendizaje al permitir que los estudiantes construyan el conocimiento de manera activa y significativa. A través del desarrollo de proyectos relacionados con situaciones reales, los estudiantes aplican lo aprendido, fortalecen el pensamiento crítico, la creatividad y el trabajo colaborativo, convirtiéndose en protagonistas de su propio proceso educativo.
+
 ¿Cómo fortalece la tecnología tu propuesta pedagógica?
+
+La tecnología fortalece la propuesta pedagógica al actuar como una herramienta clave en el diseño y desarrollo del aprendizaje. Plataformas como Canva, Padlet y Google Docs facilitan la creación, organización y colaboración, permitiendo que los estudiantes interactúen, compartan ideas y desarrollen productos digitales de manera dinámica e innovadora.
+
 
 📎 Evidencia del diseño
 
