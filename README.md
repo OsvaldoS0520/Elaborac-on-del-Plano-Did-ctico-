@@ -30,30 +30,46 @@ Cabe destacar que esta metodología favorece la integración de las tecnologías
 En conclusión, el aprendizaje basado en el descubrimiento garantiza una experiencia educativa significativa, centrada en el estudiante y orientada al desarrollo de competencias clave para su formación académica y su desempeño en la sociedad.
 
 🏗️ Fase 3 – Construcción del Plano Didáctico
-🧱 Tema de la clase
-
-Escribe el tema de la lección.
-
-🎯 Objetivo de aprendizaje
-
-Redacta qué se espera que aprendan los estudiantes.
-
-🧠 Metodología innovadora aplicada
-
-Explica cómo utilizarás la metodología seleccionada.
-
-📚 Actividades de aprendizaje
-Etapa	Actividad
-Inicio	
-Desarrollo	
-Cierre	
-💻 Herramienta tecnológica
-
-Indica la herramienta digital que utilizarás y explica cómo apoyará el aprendizaje.
-
-📊 Estrategia de evaluación
-
-Describe cómo evaluarás el aprendizaje de los estudiantes.
+Metodologia Seleccionada 
+1. Desarrollo del aprendizaje *
+- Qué se espera que aprendan los estudiantes:
+- Reconocer los usos principales de las computadoras en ámbitos personales, educativos y laborales.
+- Analizar cómo la tecnología influye en la comunicación, el acceso a la información y la productividad.
+- Desarrollar pensamiento crítico sobre ventajas y riesgos del uso de computadoras.
+- Aplicar el conocimiento en simulaciones prácticas y reflexiones sobre su vida diaria.
+2. - Metodología: Aprendizaje Basado en Proyectos (ABP) con integración de simulaciones digitales. *
+- Cómo se utilizará:
+- Los estudiantes trabajarán en pequeños grupos para diseñar un mapa conceptual digital sobre los usos de las computadoras.
+- Se aplicará la técnica de aprendizaje colaborativo con roles definidos (investigador, diseñador, expositor).
+- Se fomentará la reflexión crítica mediante debates guiados y simulaciones de escenarios reales (ejemplo: cómo sería un día sin computadoras).
+3. Actividades de aprendizaje *
+ Inicio
+- Dinámica de lluvia de ideas: “¿Qué pasaría si mañana desaparecieran todas las computadoras?”
+- Registro de respuestas en una pizarra digital colaborativa
+ Desarrollo
+- Actividad grupal: Creación de un mapa conceptual digital sobre los usos de las computadoras en la vida diaria.
+- Simulación: Escenario práctico en el que los estudiantes deben resolver un problema cotidiano (ejemplo: organizar un viaje, preparar una tarea escolar) con y sin el uso de computadoras.
+- Discusión guiada: Ventajas y riesgos del uso de la tecnología.
+Cierre
+- Presentación de los mapas conceptuales y reflexiones finales.
+- Conclusión colectiva: síntesis de los aprendizajes en una frase clave (“Las computadoras son herramientas que transforman nuestra forma de vivir y aprender”).
+4. Herramienta tecnológica *
+- Herramienta digital: Padlet o Miro (pizarra colaborativa en línea).
+- Cómo apoyará el aprendizaje:
+- Facilita la construcción colectiva de mapas conceptuales.
+- Permite integrar texto, imágenes y enlaces en tiempo real.
+- Favorece la participación activa y la creatividad de los estudiantes.
+5. Estrategia de evaluación *
+- Evaluación formativa:
+- Observación de la participación en la lluvia de ideas y debates.
+- Revisión de los mapas conceptuales digitales (criterios: claridad, organización, creatividad, pertinencia).
+- Evaluación sumativa:
+- Presentación grupal del proyecto con rúbrica que valore:
+- Comprensión del tema (40%)
+- Aplicación práctica (30%)
+- Trabajo colaborativo (20%)
+- Creatividad y uso de la herramienta digital (10%)
+* Eduardo Claros * 
 
 🔎 Fase 4 – Reflexión del Arquitecto del Aprendizaje
 
