@@ -87,3 +87,4 @@ La tecnología fortalece la propuesta pedagógica al actuar como una herramienta
 📎 Evidencia del diseño
 
 Comparte aquí el enlace o evidencia de tu propuesta si utilizaste alguna herramienta digital.
+https://www.canva.com/design/DAHFVuxiGUs/YayWxChhPRihiRbPsxcGVg/edit?utm_content=DAHFVuxiGUs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
