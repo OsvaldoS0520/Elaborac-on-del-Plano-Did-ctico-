@@ -12,6 +12,7 @@ Metodología	Descripción	Ventajas	Herramientas Tecnológicas
 Gamificación			Kahoot, Genially, Classcraft
 Aula Invertida			YouTube, Edpuzzle, Google Classroom
 Aprendizaje Basado en Proyectos			Canva, Padlet, Google Docs
+
 📐 Fase 2 – Selección del Diseño Pedagógico
 
 Metodología seleccionada
